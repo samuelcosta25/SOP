@@ -1,0 +1,6 @@
+UBUNTU - Comandos
+mkdir nome= criar um diretório
+rmdir nome= remover diretório
+sudo = executar comando como usuario master
+apt-get update para verificar atualização
+apt-get upgrade para atualizar

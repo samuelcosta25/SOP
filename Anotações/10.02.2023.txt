@@ -1,0 +1,5 @@
+É possível baixar o windows 10 de graça (imagem ISO):
+-Pesquisar no google, "baixar windows 10" e clicar no primeiro link.
+- Hiddens boot, tem download gratuito no site oficial. Com essa ferramenta é possível acessar absolutamente todos os arquivos do pc, indepedente do usuário ou proteção, também é possível remover senhas de usuários protegidos.
+- Windows PE= windows com somente algumas ferramentas, mais leve.
+- É possível em um HD criar uma repartição de persistência para guardar informações ou arquivos, para não comprometer a imagem do sistema presente tambem no disco.
